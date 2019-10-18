@@ -1,7 +1,3 @@
 {
-    "python.linting.pylintEnabled": false,
-    "python.pythonPath": "venv\\Scripts\\python.exe",
-    "workbench.editor.enablePreviewFromQuickOpen": false,
-    "workbench.editor.enablePreview": false,
-    "python.envFile": "${workspaceFolder}/.venv"
+    "python.pythonPath": "C:\\Program Files\\Python37\\python.exe"
 }
